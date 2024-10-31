@@ -120,7 +120,7 @@ console.log("Total cost: " + fullPrice + ". It will arrive in " + shippingTime)
 
 ```
 #### challenge
-Push the value "www.awesomelead.com" to myArray when the input button is clicked
+Push the value "awesomelead.com" to myArray when the input button is clicked
 ```js
 let myLeads = []
 inputBtn.addEventListener("click", function() {
@@ -131,7 +131,7 @@ inputBtn.addEventListener("click", function() {
 ```
 #### challenge
 Push the value from the inputEl into the myLeads array 
-instead of the hard-coded "www.awesomeleads.com" value
+instead of the hard-coded "awesomeleads.com" value
 Google -> "get value from input field javascript"
 ```js
 let myLeads = []  //Add value in input and click button
